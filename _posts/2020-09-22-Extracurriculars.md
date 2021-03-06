@@ -24,4 +24,3 @@ The bridge to high school from middle school can feel long and scary. But with p
 
 <a href="https://www.enlighteens.com/post/meaningful-extracurricular-activities-50-examples" target="_blank">Examples of Meaningful Extracurricular Activities</a>
 
-<b>Please follow our social media linked in the website's footer.</b>
