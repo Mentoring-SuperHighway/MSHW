@@ -8,6 +8,3 @@ This guide is written in a blog format. That is, each individual post talks abou
 
 Finally, this guide is only that, a guide. It does not require a strict adherence, following suggestions down to the letter. Rather, it is best to use this guide to gain a more complete understanding of how high school works and how to have a better chance of succeeding in school.
 
-Please follow our social media linked in the website’s footer.
-
-
