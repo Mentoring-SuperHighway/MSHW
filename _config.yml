@@ -105,6 +105,8 @@ tag_archive:
   disqus:
     shortname: "mentoring-superhighway"
     
-  krish:
+ krish:
     name: Krish Shah
     email: 2003kshah@gmail.com
+ guest:
+    name: Guest Person
