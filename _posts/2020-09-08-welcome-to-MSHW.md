@@ -2,6 +2,7 @@
 title: "Welcome to Mentoring SuperHighway!"
 categories:
   - Welcome
+author: krish
 ---
 
 <!---
@@ -16,6 +17,8 @@ Mentoring SuperHighway is a free guide to all things high school and transitioni
 Once per month there will be a zoom call which will have a special guest whether that be a current high school student, past high school student, high school counselor, or college admissions officer. These zoom calls will be accessible through our mailing list which can be signed up for in the <a href="{{ '/join/' | relative_url }}">"Join Us"</a> tab of our website.
 
 If there are any questions with this program or any concerns please reach out to us in the <a href="{{ '/contact/' | relative_url }}">"Contact Us"</a> tab. Be sure to put your full name, email, and comments or questions you have.
+
+
 
 
 
