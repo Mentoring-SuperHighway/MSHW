@@ -3,6 +3,7 @@ title: "5 Necessary Study Habits"
 categories:
   - Middle School -> High School
   - High School
+author: guest
 ---
 
 <!---
