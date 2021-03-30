@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Mentoring SuperHighway!"
+{% include author.html %}
 categories:
   - Welcome
 author: krish
@@ -11,9 +12,6 @@ author: krish
   <source src="horse.mp3" type="audio/mpeg">
 </audio>
 --->
-
-{% include author.html %}
-
 Mentoring SuperHighway is a free guide to all things high school and transitioning to college. This guide will cover the transition from middle school to high school, from course selections, extracurriculars, advice from current and past students, tips from college admission counselors, and more. This guide is geared specifically for 7th grade and above to teach them about how important it is to think about post graduate plans from a young age. This guide (in parts or as a whole) may be only be applicable for students in the United States of America.
 
 Once per month there will be a zoom call which will have a special guest whether that be a current high school student, past high school student, high school counselor, or college admissions officer. These zoom calls will be accessible through our mailing list which can be signed up for in the <a href="{{ '/join/' | relative_url }}">"Join Us"</a> tab of our website.
